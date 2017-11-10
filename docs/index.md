@@ -1,19 +1,14 @@
-# Welcome to MkDocs
+# Fachmodul Übersicht
+Die Lernziele und Kompetenzen sind individuell je nach Thema der Bachelor-Arbeit.
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+### Termine
 
-## Commands
+* 20.11.2017  - Doku-Gerüst abgeben (ohne Inhalt)
+* 11.12.2017  - Vorversion des Berichts abgeben (LaTeX)
+* 22.12.2017  - Abgabe definitiver FM-Bericht (LaTeX)
 
-Gugus
+### Ziel Fachmodul
+tbd
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+### Stundenaufwand
+60h (2 ECTS) pro Person
