@@ -317,7 +317,7 @@
         }, 
         {
             "location": "/about/", 
-            "text": "Anleitung\n\n\nMkdocs\n\n\nNeue Seite erstellen\n\n\nUm eine neue Seite zu erstellen im Terminal folgenden Befehl eingeben:\n\n\ncurl 'https://jaspervdj.be/lorem-markdownum/markdown.txt' \n docs/about.md\n\n\n\nAnschliessend im File \nmkdocs.yml\n die Seite verlinken:\n\n\nsite_name: MkLorum\npages:\n  - Home: index.md\n  - About: about.md\n\n\n\nPreview auf localhost starten\n\n\nIm Terminal ins entsprechende Verzeichnis wechseln (dort wo das mkdocs.yml File liegt)\nAnschlissend den Server starten:\n\n\nmkdocs serve\n\n\n\nDeployen auf github\n\n\nmkdocs gh-deploy\n\n\n\nAchtung: nicht manuell d.h. mit \ngit add\n deployen!\n\n\nTools, die wir verwenden\n\n\n\n\nTime Tracking: \nToggl\n\n\nReports: Mkdocs (Markdown) / Git Pages\n\n\nSchlussbericht: LaTeX\n\n\nVersionisierung: Git\n\n\nItem Tracking: Trello\n\n\nKommunikation: slack\n\n\nScreen-Sharing und Telefonie: skype", 
+            "text": "Anleitung\n\n\nMkdocs\n\n\nNeue Seite erstellen\n\n\nblablibalasdxc\u00f6lkaddjdf\n\n\nUm eine neue Seite zu erstellen im Terminal folgenden Befehl eingeben:\n\n\ncurl 'https://jaspervdj.be/lorem-markdownum/markdown.txt' \n docs/about.md\n\n\n\nAnschliessend im File \nmkdocs.yml\n die Seite verlinken:\n\n\nsite_name: MkLorum\npages:\n  - Home: index.md\n  - About: about.md\n\n\n\nPreview auf localhost starten\n\n\nIm Terminal ins entsprechende Verzeichnis wechseln (dort wo das mkdocs.yml File liegt)\nAnschlissend den Server starten:\n\n\nmkdocs serve\n\n\n\nDeployen auf github\n\n\nmkdocs gh-deploy\n\n\n\nAchtung: nicht manuell d.h. mit \ngit add\n deployen!\n\n\nTools, die wir verwenden\n\n\n\n\nTime Tracking: \nToggl\n\n\nReports: Mkdocs (Markdown) / Git Pages\n\n\nSchlussbericht: LaTeX\n\n\nVersionisierung: Git\n\n\nItem Tracking: Trello\n\n\nKommunikation: slack\n\n\nScreen-Sharing und Telefonie: skype", 
             "title": "About"
         }, 
         {
@@ -332,7 +332,7 @@
         }, 
         {
             "location": "/about/#neue-seite-erstellen", 
-            "text": "Um eine neue Seite zu erstellen im Terminal folgenden Befehl eingeben:  curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt'   docs/about.md  Anschliessend im File  mkdocs.yml  die Seite verlinken:  site_name: MkLorum\npages:\n  - Home: index.md\n  - About: about.md", 
+            "text": "blablibalasdxc\u00f6lkaddjdf  Um eine neue Seite zu erstellen im Terminal folgenden Befehl eingeben:  curl 'https://jaspervdj.be/lorem-markdownum/markdown.txt'   docs/about.md  Anschliessend im File  mkdocs.yml  die Seite verlinken:  site_name: MkLorum\npages:\n  - Home: index.md\n  - About: about.md", 
             "title": "Neue Seite erstellen"
         }, 
         {
